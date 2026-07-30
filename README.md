@@ -1,2 +1,2 @@
-# cs5290.github.io
+# cs5290
 CS5290: Memory Centric Computing Architectures Course Website
