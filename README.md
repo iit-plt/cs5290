@@ -3,7 +3,7 @@ CS5290: Memory Centric Computing Architectures Course Website
 
 | Lec. No. | Date of Lecture        | Topics  | Slides   |References |
 |:---:|:--:|:--|:--------------------------|:--:|
-| 1       |  23-07-2026            | Intro              | [23-07-2026]() | []() |
-| 2       |  28-07-2026            | Performance        | [28-07-2026]() | []() |
-| 3       |  29-07-2026            | ILP-Hazards        | [29-07-2026]() | []() |
-| 4       |  30-07-2026            | Dynamic Scheduling | [30-07-2026]() | []() |
+| 1       |  23-07-2026            | Intro              | [23-07-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQDLXFKQtoUNRqR4kzwRhxjtAX6vH6rbGGpVUtFGhGCed8Q) | []() |
+| 2       |  28-07-2026            | Performance        | [28-07-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQALRoAlPrE0SIeTasQjy1g1AcyBqhuMKAtpOy65ZSeASyw?e=iplePq) | []() |
+| 3       |  29-07-2026            | ILP-Hazards        | [29-07-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAL3OMPlB0ASZtcktOstL4sAW_ruX3ggV_QV-qCAvST4iI?e=90oOjV) | []() |
+| 4       |  30-07-2026            | Dynamic Scheduling | [30-07-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQANJBTtALSlQqI415MKnWmgAZiFN-X-zLW7wGlG8Np6pPI?e=JO4tAt) | []() |
