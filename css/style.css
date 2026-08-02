@@ -253,6 +253,29 @@ footer hr{
 
 }
 
+.topic-link{
+
+    color:#183A5A;
+
+    font-weight:600;
+
+    text-decoration:none;
+
+    border-bottom:1px dotted transparent;
+
+    transition:all .25s ease;
+
+}
+
+.topic-link:hover{
+
+    color:#4B7EA8;
+
+    border-bottom:1px dotted #4B7EA8;
+
+}
+
+
 /* ===============================
    Mobile
 =================================*/
