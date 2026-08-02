@@ -1,4 +1,30 @@
 [
-{"lecture":1,"date":"23-07-2026","topic":"Introduction","slides":"https://example.com/lecture1.pdf","reference":""},
-{"lecture":2,"date":"28-07-2026","topic":"Performance","slides":"https://example.com/lecture2.pdf","reference":""}
+  {
+    "lecture": 1,
+    "date": "23-07-2026",
+    "topic": "Introduction",
+    "slides": "https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQDLXFKQtoUNRqR4kzwRhxjtAX6vH6rbGGpVUtFGhGCed8Q",
+    "reference": ""
+  },
+  {
+    "lecture": 2,
+    "date": "28-07-2026",
+    "topic": "Performance",
+    "slides": "https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQALRoAlPrE0SIeTasQjy1g1AcyBqhuMKAtpOy65ZSeASyw?e=iplePq",
+    "reference": ""
+  },
+  {
+    "lecture": 3,
+    "date": "29-07-2026",
+    "topic": "Instruction Level Parallelism & Hazards",
+    "slides": "https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAL3OMPlB0ASZtcktOstL4sAW_ruX3ggV_QV-qCAvST4iI?e=90oOjV",
+    "reference": ""
+  },
+  {
+    "lecture": 4,
+    "date": "30-07-2026",
+    "topic": "Dynamic Scheduling",
+    "slides": "https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQANJBTtALSlQqI415MKnWmgAZiFN-X-zLW7wGlG8Np6pPI?e=JO4tAt",
+    "reference": ""
+  }
 ]
