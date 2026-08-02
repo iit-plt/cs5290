@@ -21,9 +21,9 @@ fetch("data/lectures.json")
         <tr>
             <td>${index+1}</td>
             <td>${lec.date}</td>
-            <td>${lec.topic}</td>
-            <td><a class="button" href="${lec.slides}" target="_blank">Download</a></td>
-            <td>${lec.reference || "-"}</td>
+           <td>    <a class="topic-link" href="${lec.slides}" target="_blank"> ${lec.topic} </a> </td>
+
+<td>${lec.reference || "-"}</td>
         </tr>`;
 
     });
