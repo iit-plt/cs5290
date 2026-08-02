@@ -1,13 +1,302 @@
+/* ===============================
+   General
+=================================*/
 
-body{font-family:Arial,sans-serif;background:#f5f7fb;margin:0;color:#374151}
-.container{max-width:1100px;margin:auto;padding:24px}
-.hero{background:#12355B;color:#fff;padding:40px;border-radius:16px}
-.card{background:#fff;margin-top:24px;padding:24px;border-radius:16px;box-shadow:0 4px 15px rgba(0,0,0,.08)}
-.table-wrap{overflow-x:auto}
-table{width:100%;border-collapse:collapse}
-th{background:#12355B;color:#fff;padding:12px}
-td{padding:12px;border-bottom:1px solid #eee;text-align:center}
-tr:nth-child(even){background:#fafbfd}
-tr:hover{background:#eef5ff}
-a.btn{background:#12355B;color:#fff;padding:7px 14px;border-radius:6px;text-decoration:none}
-footer{text-align:center;margin-top:30px;color:#666}
+body{
+    font-family: "Times New Roman", Times, serif;
+    background:#F4F6F9;
+    color:#2C3138;
+    margin:0;
+    line-height:1.7;
+    font-size:18px;
+}
+
+.container{
+    max-width:1150px;
+    margin:auto;
+    padding:30px 20px;
+}
+
+/* ===============================
+   Header
+=================================*/
+
+.hero{
+
+    background:linear-gradient(135deg,#183A5A,#315A7D);
+
+    color:white;
+
+    padding:45px 50px;
+
+    border-radius:18px;
+
+    box-shadow:0 12px 28px rgba(0,0,0,.15);
+
+    margin-bottom:30px;
+
+}
+
+.hero h1{
+
+    margin:0;
+
+    font-size:2.8rem;
+
+    font-weight:bold;
+
+    letter-spacing:.5px;
+
+}
+
+.hero h2{
+
+    margin-top:8px;
+
+    font-weight:normal;
+
+    font-size:1.55rem;
+
+}
+
+.hero p{
+
+    margin-top:18px;
+
+    font-size:1.08rem;
+
+    color:#E8EDF3;
+
+}
+
+.semester{
+
+    display:inline-block;
+
+    margin-top:18px;
+
+    padding:8px 18px;
+
+    border-radius:30px;
+
+    background:rgba(255,255,255,.15);
+
+    border:1px solid rgba(255,255,255,.25);
+
+    font-size:15px;
+
+}
+
+/* ===============================
+   Cards
+=================================*/
+
+.card{
+
+    background:white;
+
+    border-radius:16px;
+
+    padding:28px;
+
+    margin-top:25px;
+
+    box-shadow:0 5px 18px rgba(0,0,0,.08);
+
+}
+
+.card h3{
+
+    margin-top:0;
+
+    color:#183A5A;
+
+    border-left:5px solid #4B7EA8;
+
+    padding-left:12px;
+
+    margin-bottom:18px;
+
+}
+
+/* ===============================
+   Table
+=================================*/
+
+.table-container{
+
+    overflow-x:auto;
+
+}
+
+table{
+
+    width:100%;
+
+    border-collapse:collapse;
+
+    margin-top:10px;
+
+    border-radius:10px;
+
+    overflow:hidden;
+
+}
+
+th{
+
+    background:#183A5A;
+
+    color:white;
+
+    padding:14px;
+
+    font-size:17px;
+
+}
+
+td{
+
+    padding:14px;
+
+    text-align:center;
+
+    border-bottom:1px solid #E8ECF0;
+
+}
+
+tr:nth-child(even){
+
+    background:#F8FAFC;
+
+}
+
+tr:hover{
+
+    background:#EEF4FA;
+
+    transition:.25s;
+
+}
+
+/* ===============================
+   Buttons
+=================================*/
+
+a.btn{
+
+    display:inline-block;
+
+    background:#315A7D;
+
+    color:white;
+
+    text-decoration:none;
+
+    padding:8px 18px;
+
+    border-radius:8px;
+
+    font-size:15px;
+
+    transition:.25s;
+
+}
+
+a.btn:hover{
+
+    background:#4B7EA8;
+
+    transform:translateY(-2px);
+
+}
+
+/* ===============================
+   Lists
+=================================*/
+
+ul{
+
+    padding-left:25px;
+
+}
+
+li{
+
+    margin-bottom:10px;
+
+}
+
+/* ===============================
+   Footer
+=================================*/
+
+footer{
+
+    margin-top:45px;
+
+    text-align:center;
+
+    color:#5B6672;
+
+    font-size:15px;
+
+}
+
+footer hr{
+
+    border:none;
+
+    border-top:1px solid #D6DCE2;
+
+    margin-bottom:20px;
+
+}
+
+/* ===============================
+   Mobile
+=================================*/
+
+@media (max-width:768px){
+
+.hero{
+
+    padding:30px 25px;
+
+}
+
+.hero h1{
+
+    font-size:2rem;
+
+}
+
+.hero h2{
+
+    font-size:1.2rem;
+
+}
+
+.container{
+
+    padding:15px;
+
+}
+
+.card{
+
+    padding:20px;
+
+}
+
+table{
+
+    display:block;
+
+    overflow-x:auto;
+
+    white-space:nowrap;
+
+}
+
+}
