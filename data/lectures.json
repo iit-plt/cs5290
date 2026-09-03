@@ -96,6 +96,22 @@
     "topic": "Dataflows, Data Reuse, and Memory Traffic​​",
     "slides": "https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQC547IbDWLRRJvxEDf4TCAtAZ6ocniJpO_jb4iDTOAo1Tk?e=zus9r7",
     "reference": ""
+  },
+
+  {
+    "lecture": 14,
+    "date": "27-08-2026",
+    "topic": "Eyeriss: The Row-Stationary Dataflow​​​",
+    "slides": "https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQD7Xu1es1ZEQIndySX4vDj9AaRazbTEfyXIsfhy3j-T8Gs?e=g2GJ2g",
+    "reference": ""
+  },
+
+  {
+    "lecture": 15,
+    "date": "02-09-2026",
+    "topic": "The Tensor Processing Unit: Weight-Stationary Systolic Arrays​​​",
+    "slides": "https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAURr-htMzxQZpwI7o06tjhAbz7GONx9K81t0QEeT22FU4?e=j5tAOO",
+    "reference": ""
   }
   
 ]
