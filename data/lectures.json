@@ -160,5 +160,30 @@
     "topic": "Tomasulo and Dynamic Scheduling Examples-2",
     "slides": "https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQD3xgOdTgSvTZcQXpctn3i0AYjki8lncrX2eaxy9fB5Qso?e=yWlNwX",
     "reference": ""
+  },
+
+  {
+    "lecture": "22",
+    "date": "22-09-2026",
+    "topic": "Tesseract: A Scalable Processing-in-Memory Accelerator for Parallel Graph Processing",
+    "slides": "https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAAv0Lxc8YpRrInpft-K0D8ASFRDHVuqHbpZyFgMj-6u7A?e=OpnOd8",
+    "reference": ""
+  },
+
+  {
+    "lecture": "23",
+    "date": "23-09-2026",
+    "topic": "TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory",
+    "slides": "https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQCFureemfpcTpD6a5p81OUOARGUkc06DT8U7q_8oAQ5NkA?e=XTwwwI",
+    "reference": ""
+  },
+
+  {
+    "lecture": "24",
+    "date": "24-09-2026",
+    "topic": "TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory (Continuation is in Lecture 23)",
+    "slides": "",
+    "reference": ""
   }
+  
 ]
