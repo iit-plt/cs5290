@@ -208,6 +208,14 @@
     "topic": "Memristors-2",
     "slides": "https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAsteM30O1uRbWf7oRs3CsOASt0AXnzdBTmBg62tCgAN1Y?e=zwpDwB",
     "reference": ""
+  },
+
+  {
+    "lecture": "27",
+    "date": "07-10-2026",
+    "topic": "DaDianNao​ & ISAAC: A Convolutional Neural Network Accelerator​ with In-Situ Analog Arithmetic in Crossbars​",
+    "slides": "https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBkJdNlsm7pTLr7YGI7uhKXAdaLI_kpSUA_p8L6r2zrQu4?e=FI7v2A",
+    "reference": ""
   }
   
 ]
