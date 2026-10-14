@@ -216,6 +216,30 @@
     "topic": "DaDianNao​ & ISAAC: A Convolutional Neural Network Accelerator​ with In-Situ Analog Arithmetic in Crossbars​",
     "slides": "https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBkJdNlsm7pTLr7YGI7uhKXAdaLI_kpSUA_p8L6r2zrQu4?e=FI7v2A",
     "reference": ""
+  },
+
+  {
+    "lecture": "28",
+    "date": "08-10-2026",
+    "topic": "PRIME: Processing-in-Memory for Neural Networks in ReRAM-based Main Memory​",
+    "slides": "https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQC_ftxeosO3S4DLU5CI5WatAcvFgIEY-xuEUWm1J8W8zYw?e=YppKUm",
+    "reference": ""
+  },
+
+  {
+    "lecture": "29a",
+    "date": "13-10-2026",
+    "topic": "PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning​--PART-1",
+    "slides": "https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQA9gW5_WD0mQJnow7vHWLaoARIualBjiHP2BMUDtj48d_A?e=eTzna4",
+    "reference": ""
+  },
+
+  {
+    "lecture": "29b",
+    "date": "14-10-2026",
+    "topic": "PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning​--PART-2",
+    "slides": "https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQARCTGyr_NeTa5V_Xn60sn4AcMBm_lBNPN_oS7lRdUh8A8?e=1J2glq",
+    "reference": ""
   }
   
 ]
