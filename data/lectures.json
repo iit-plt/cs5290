@@ -264,6 +264,14 @@
     "topic": "ECC",
     "slides": "https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQB-WMb_vAMKRZUNuau0jDOuAWKIkMtSiATifgllHt2UtLI?e=MH1m7F",
     "reference": ""
+  },
+
+  {
+    "lecture": "33",
+    "date": "27-10-2026",
+    "topic": "DRAM Disturbance Faults: RowHammer to RowPress​",
+    "slides": "https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQCAwDMmaW7ASb9YvLWfWzo7AcRxllsuNkn0LtWBdw5oI64?e=MXvHaz",
+    "reference": ""
   }
   
 ]
