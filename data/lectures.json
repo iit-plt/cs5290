@@ -296,5 +296,22 @@
     "topic": "Reliability-Aware PIM Design: Making Bank-PIM Trustworthy​​​",
     "slides": "https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQA2_A-ccVOwRKxVLsEin4xoAUv4RsqhyWA2GEOZO72cL2E?e=RM5koG",
     "reference": ""
+  },
+
+  {
+    "lecture": "37",
+    "date": "04-11-2026",
+    "topic": "Analog IMC Non-Idealities: Variability, Noise and Stuck-At Faults in ReRAM Crossbars",
+    "slides": "https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQDgMyQqpuTBS6z-a7v9pVApAde323OANLHNFa22k5ecioc?e=iyq48G",
+    "reference": ""
+  },
+
+  
+  {
+    "lecture": "38",
+    "date": "05-11-2026",
+    "topic": "Fault-Tolerant ReRAM Design and Module Synthesis​",
+    "slides": "https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBS9vtGuUG9RbAzWJ6btG5nAa4SYjrbB1GJQ1oinyw7YOQ?e=tu8ddq",
+    "reference": ""
   }
 ]
