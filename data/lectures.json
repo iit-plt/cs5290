@@ -306,12 +306,19 @@
     "reference": ""
   },
 
-  
   {
     "lecture": "38",
     "date": "05-11-2026",
     "topic": "Fault-Tolerant ReRAM Design and Module Synthesis​",
     "slides": "https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBS9vtGuUG9RbAzWJ6btG5nAa4SYjrbB1GJQ1oinyw7YOQ?e=tu8ddq",
+    "reference": ""
+  },
+
+  {
+    "lecture": "39",
+    "date": "10-11-2026",
+    "topic": "​Spiking Neural Networks​ on Memristor Crossbars​",
+    "slides": "https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBnyn89goVPTYseub750wZIAd4Txtag4h72w2MQ05AEmHo?e=Sr4eUc",
     "reference": ""
   }
 ]
